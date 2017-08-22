@@ -14,3 +14,7 @@ Yes, I now start counting from `0` (I got Python-ed).
 ### 0.1 – Install *PyTorch* on *OSX* ([slides](res/0.1/slides.pdf))
 
 [![Install PyTorch on OSX](http://img.youtube.com/vi/h8n6HrLfeJQ/0.jpg)](https://youtu.be/h8n6HrLfeJQ?list=PLLHTzKZzVU9e37Jq7DPut8In7MYZZ7uan)
+
+### 0.2 – Install *PyTorch* on *Ubuntu* ([slides](res/0.2/slides.pdf))
+
+[![Install PyTorch on Ubuntu](http://img.youtube.com/vi/PSC0RVcubnA/0.jpg)](https://youtu.be/PSC0RVcubnA?list=PLLHTzKZzVU9e37Jq7DPut8In7MYZZ7uan)
