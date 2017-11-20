@@ -18,3 +18,9 @@ Yes, I now start counting from `0` (I got Python-ed).
 ### 0.2 – Install *PyTorch* on *Ubuntu* ([slides](res/0.2/slides.pdf))
 
 [![Install PyTorch on Ubuntu](http://img.youtube.com/vi/PSC0RVcubnA/0.jpg)](https://youtu.be/PSC0RVcubnA?list=PLLHTzKZzVU9e37Jq7DPut8In7MYZZ7uan)
+
+## t - Talks
+
+### t.1 – Capsules and routing techniques ([slides](res/t.1/slides.pdf), [notebook](res/t.1/full_script.ipynb))
+
+[![Capsules and routing techniques](http://img.youtube.com/vi/EATWLTyLfmc/0.jpg)](https://youtu.be/EATWLTyLfmc?list=PLLHTzKZzVU9e37Jq7DPut8In7MYZZ7uan)
